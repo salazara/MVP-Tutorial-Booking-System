@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tutorials>
+  <tutorial>
+    <topic>Introduction to Computer Science</topic>
+    <category>Computer Science</category>
+  </tutorial>
+
+  <tutorial>
+    <topic>Introduction to Algorithms and Programming</topic>
+    <category>Computer Science</category>
+  </tutorial>
+
+  <tutorial>
+    <topic>Introduction to the Internet</topic>
+    <category>Computer Science</category>
+  </tutorial>
+
+  <tutorial>
+    <topic>Advanced Website Design</topic>
+    <category>Computer Science</category>
+  </tutorial>
+
+  <tutorial>
+    <topic>Object-Oriented Programming</topic>
+    <category>Computer Science</category>
+    <description>N/A</description>
+  </tutorial>
+
+  <tutorial>
+    <topic>Data Structures and Algorithms</topic>
+    <category>Computer Science</category>
+  </tutorial>
+
+  <tutorial>
+    <topic>Introduction to Linear Algebra</topic>
+    <category>Mathematics</category>
+  </tutorial>
+
+  <tutorial>
+    <topic>Introduction to Calculus</topic>
+    <category>Mathematics</category>
+  </tutorial>
+
+  <tutorial>
+    <topic>Weight Training Fundamentals</topic>
+    <category>Health and Fitness</category>
+  </tutorial>
+
+  <tutorial>
+    <topic>Nutrition Fundamentals</topic>
+    <category>Health and Fitness</category>
+  </tutorial>
+</tutorials>
